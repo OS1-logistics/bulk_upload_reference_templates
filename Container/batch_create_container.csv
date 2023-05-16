@@ -1,0 +1,2 @@
+trackingDetails,isHazmat,isContainerizable
+"[{   ""operator"": ""amazononetrack"",   ""trackingId"": ""132121232423232935739023"",   ""isPrimary"": ""false"" }, {   ""operator"": ""flipkart"",   ""trackingId"": ""132121232423232935739023"",   ""isPrimary"": ""false"" }]",true,true

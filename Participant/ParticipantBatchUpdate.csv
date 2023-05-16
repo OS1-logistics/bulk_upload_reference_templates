@@ -1,0 +1,6 @@
+id ,properties,owner,templateId,category,subCategory,name
+consumer:b88c1252-f468-5a87-831b-47ff617b23ff,"{""ptpType"":""updateById""}",tenants:abbba68e-6fac-5004-aa84-20593a6db4b6,,vehicle,SN1,namee
+2995d2de13,"{""ptpType"":""updateByUniqueCode""}",tenants:abbba68e-6fac-5004-aa84-20593a6db4b6,,string,string,string
+testpartips:9725f58d-f88f-52ce-9497-2baa0d7a3ae8,{},tenants:abbba68e-6fac-5004-aa84-20593a6db4b6,,string,,string
+2995d2de13,{},tenants:abbba68e-6fac-5004-aa84-20593a6db4b6,,,string,string
+2995d2de13,{},tenants:abbba68e-6fac-5004-aa84-20593a6db4b6,template:08ea167c-fcee-3fec-9c60-d299b0bcafe9,,,string
