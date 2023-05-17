@@ -1,0 +1,6 @@
+countryName,city,state,zipCode,county,alias
+indiazz,Chauragoan,rajasthan,12345,county,"[abcd]"
+indiazz,Deeg,rajasthan,12345,county,"[abcd,bcd]"
+indiazz,Limbhata,rajasthan,12345,county,"[]"
+indiazz,Nalai,rajasthan,12345,county,"[]"
+indiazz,Duhukuriya,rajasthan,,,"[]"
